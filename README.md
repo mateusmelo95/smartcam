@@ -1,7 +1,7 @@
 # SmartCam
 Câmera Inteligente ou SmartCam é um projeto de um protótipo de Câmera + Lidar com o proposito de coletar, analisar e gerar relatórios inteligentes em tempo real. O produto possui múltiplos sensores ópticos e um sensor lidar para coletar informações de ambientes e objetos com a integração de modelos IA.
 
-![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHfsz6NmAE_V79lEFHSSMoyOq71m2EbPIrDJXexpQWduaMFotcVF0yCeqcB1wuKEmbvNMgLmGJQX-WK6HZtbOOlXxB5ynYz7adB83BwUHD6gKAPl6ARfitaNE0R-KW-HqewCvTcG4cqSoe4MrEMDjvZ4=w842-h632-s-no?authuser=0)
+![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHdXW0txd6Q8diZiEU2WuvuwZu1Vok41Yfp_AncVJc9L95SPsAfAOmJU3jh0Rl4boQFbqT_k05TYJUDbHOZUrWB2sjV-kK_UK0wKcE6xoNrLF6_OzPYHtfk-vtbfktUa3kR8wDsT4-2i759S_t2Si97i=w842-h842-s-no?authuser=0)
 
 # Sobre o projeto
 
